@@ -6,9 +6,9 @@ class Anagram
     @word = word 
   end 
   
-  def match()
-    word.each do |word| word.match|
-      return match 
+  def match(array_of_words)
+  array_of_words.each do |word| word.match|
+  return match 
   end 
   
 end 
