@@ -6,7 +6,8 @@ class Anagram
   end 
   
   def match
-    word.each do |word| word.ma
+    word.each do |word| word.match|
+      return match 
   end 
   
 end 
